@@ -1,8 +1,10 @@
-# local_notification
+# Learning Local Notification
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/53872301/202865948-d4e737f8-a6d1-430a-a046-523600904a41.png" width =200>
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/53872301/202865956-1b8d22b7-eb8a-4fc1-a6b8-5bcfe74946cf.png" width =200>
+
+
 
 This project is a starting point for a Flutter application.
 
